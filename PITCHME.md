@@ -67,5 +67,39 @@ Month, 1月, 2月, 3月, 4月, 5月, 6月, 7月
 
 </canvas>
 
-
 ---
+
+---?color=black
+
+@snap[west]
+@css[bio-about](Freelance Developer<br>Founder / Maker)
+<br><br><br>
+@fa[terminal fa-3x bio-fa](geek)
+<br><br><br>
+@css[bio-about](OSS Contributor<br>Conference Speaker)
+@snapend
+
+@snap[east bio]
+@css[bio-headline](David Russell)
+<br>
+@css[bio-byline](@fa[github pad-fa] gitpitch @fa[twitter pad-fa])
+<br>
+![](assets/img/ram.jpg)
+<br>
+@css[bio-tagline](A face made for radio!)
+@snapend
+---
+
+---?color=#E6E8EC
+
+@snap[north-west]
+@size[1.5em](GraphQL)
+@snapend
+
+@snap[west graphql-details]
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+@snapend
+
+@snap[east graphql-arch]
+![](assets/images/graphql.png)
+@snapend
