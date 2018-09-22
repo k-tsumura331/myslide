@@ -12,3 +12,6 @@ footnote : "© 2017 sample Inc."
 
 #スライドのページ数表示の設定
 slide-number: true
+
+# cssの適用
+theme-override : PITCHME.css
