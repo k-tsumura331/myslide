@@ -37,3 +37,65 @@
 .bio-fa {
   color: #E49436;
 }
+
+.process {
+  width: 25%;
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+  padding: 30px 20px !important;
+}
+
+.process-go {
+  color: black;
+  background-color: white;
+}
+
+.timeline {
+  color: black;
+  width: 25%;
+  border-radius: 20px;
+  padding: 30px 20px !important;
+}
+
+.timeline hr {
+  border-top: 1px solid black;
+}
+
+.idea {
+  background-color: #F7977A;
+}
+
+.prototype {
+  background-color: #FFF79A;
+}
+
+.launch {
+  background-color: #82CA9D;
+}
+
+.message {
+  color: black;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.graphql-details {
+  width: 50%;
+  color: gray;
+  font-size: 0.7em !important;
+  line-height: 1.5em !important;
+}
+
+.graphql-arch img {
+  width: 50%;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.thanks {
+  width: 80%;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-size: 1.1em !important;
+}
